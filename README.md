@@ -1,6 +1,7 @@
 # MaskR-CNN_holecover
   ## 1. Label the objects
   Using VGG Image Annotator (VIA) annotaions technique
+  
   Classes: manhole, handhole
   
   ## 2. Mask R-CNN environment
