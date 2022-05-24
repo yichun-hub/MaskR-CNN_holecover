@@ -35,4 +35,8 @@
   ## 5. Result
   manhole
   
+  ![image](https://github.com/yichun-hub/MaskR-CNN_holecover/blob/main/result/manhole.jpg)
+  
   handhole
+  
+  ![image](https://github.com/yichun-hub/MaskR-CNN_holecover/blob/main/result/handhole.jpg)
