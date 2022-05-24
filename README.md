@@ -31,7 +31,7 @@
   ```
   
   ## 4. Training
-      python3 bev_project.py train --weights=coco --dataset=/home/geo/kh/Mask_RCNN-master_sign/samples/sign_data
+      python3 hole_project.py train --weights=coco --dataset=/home/geo/kh/Mask_RCNN-master_sign/samples/sign_data
       
   ## 5. Result
   manhole
